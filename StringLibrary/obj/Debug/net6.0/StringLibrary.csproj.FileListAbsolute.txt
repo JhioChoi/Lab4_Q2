@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\ref\StringLibrary.dll
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
+C:\Users\USER\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb
